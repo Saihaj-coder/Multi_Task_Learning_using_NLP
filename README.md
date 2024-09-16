@@ -24,7 +24,7 @@ Components --->
 * Multi-Task model generates output for each task individually
 
 (iii) Shared Core Layers:
-* Multi-Task models functionality is that a sinlge model can do multiple related tasks. To exhibit this functionality the core layers of the model like (Embedding, LSTM, pooling, dropout etc) are shared among all the tasks and are not seperately available for them
+* Multi-Task models functionality is that a single model can do multiple related tasks. To exhibit this functionality the core layers of the model like (Embedding, LSTM, pooling, dropout etc) are shared among all the tasks and are not seperately available for them
 
 Tasks ---> 
 
